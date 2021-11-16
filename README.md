@@ -3,7 +3,7 @@ Mil_RPCHAT
 
 
 #### Description
-This is a proximity chat script. With a few commands such as Twitter, OOC, Local Me, and Local Do.
+This is a proximity chat script. With a few commands such as Twitter, OOC, Local Me, and Local Do, OOP, Anon and more
 
 #### Requirements
 - [esx_identity](https://github.com/ESX-Org/esx_identity)
